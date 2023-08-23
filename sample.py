@@ -29,6 +29,6 @@ lists = [
     "cherry",
     "apple",
     "banana",
-    "cherry",
+    "cherries",
 ]
 print(lists)
